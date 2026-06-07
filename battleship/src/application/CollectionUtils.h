@@ -25,4 +25,4 @@ std::string joinMapped(const Container& container, const std::string& separator,
     return out.str();
 }
 
-}  // namespace battleship::application
+}
