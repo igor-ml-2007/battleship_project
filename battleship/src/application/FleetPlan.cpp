@@ -15,4 +15,4 @@ Generator<int> standardFleetPlan() {
     co_yield 1;
 }
 
-}  // namespace battleship::application
+}
