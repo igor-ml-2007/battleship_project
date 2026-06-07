@@ -1,0 +1,4 @@
+build/
+battleship_save.txt
+battleship_stats.txt
+.DS_Store
