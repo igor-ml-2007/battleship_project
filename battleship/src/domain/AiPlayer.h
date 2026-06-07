@@ -32,4 +32,4 @@ private:
     std::vector<Point> activeHits_;
 };
 
-}  // namespace battleship::domain
+}
