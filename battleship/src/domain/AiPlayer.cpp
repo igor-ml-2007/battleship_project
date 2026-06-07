@@ -202,4 +202,4 @@ bool AIPlayer::restore(const AiSnapshot& snapshot) {
     return true;
 }
 
-}  // namespace battleship::domain
+}
