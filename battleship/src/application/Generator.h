@@ -103,4 +103,4 @@ private:
     std::coroutine_handle<promise_type> handle_;
 };
 
-}  // namespace battleship::application
+}
