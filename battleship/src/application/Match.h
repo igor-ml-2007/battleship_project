@@ -90,4 +90,4 @@ private:
     std::string lastPersistenceError_;
 };
 
-}  // namespace battleship::application
+}
