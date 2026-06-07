@@ -352,4 +352,4 @@ void Match::pushMessage(const std::string& text) {
     messages_.push(text);
 }
 
-}  // namespace battleship::application
+}
