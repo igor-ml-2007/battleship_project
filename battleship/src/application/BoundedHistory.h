@@ -39,4 +39,4 @@ private:
     std::vector<T> values_;
 };
 
-}  // namespace battleship::application
+}
