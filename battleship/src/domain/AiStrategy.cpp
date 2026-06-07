@@ -16,7 +16,7 @@ bool isValidKnowledgeGrid(const std::vector<std::vector<KnowledgeCell>>& knowled
     });
 }
 
-}  // namespace
+}
 
 RandomAiStrategy::RandomAiStrategy() {
     reset();
@@ -66,4 +66,4 @@ bool RandomAiStrategy::restore(const AiSnapshot& snapshot) {
     return true;
 }
 
-}  // namespace battleship::domain
+}
