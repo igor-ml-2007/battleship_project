@@ -42,4 +42,4 @@ private:
     std::vector<std::vector<KnowledgeCell>> knowledge_;
 };
 
-}  // namespace battleship::domain
+}
