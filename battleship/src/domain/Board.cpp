@@ -21,7 +21,7 @@ std::vector<Point> surroundingPoints(Point point) {
     return result;
 }
 
-}  // namespace
+}
 
 Board::Board() {
     reset();
@@ -213,4 +213,4 @@ bool Board::restore(const BoardSnapshot& snapshot) {
     return true;
 }
 
-}  // namespace battleship::domain
+}
