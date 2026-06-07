@@ -53,4 +53,4 @@ std::string toString(Phase phase);
 std::optional<Turn> parseTurn(const std::string& value);
 std::optional<Phase> parsePhase(const std::string& value);
 
-}  // namespace battleship::domain
+}
