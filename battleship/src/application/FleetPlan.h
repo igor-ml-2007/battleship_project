@@ -6,4 +6,4 @@ namespace battleship::application {
 
 Generator<int> standardFleetPlan();
 
-}  // namespace battleship::application
+}
