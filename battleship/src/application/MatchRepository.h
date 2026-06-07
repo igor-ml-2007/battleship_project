@@ -15,4 +15,4 @@ public:
     virtual std::optional<MatchSnapshot> load(std::string& error) = 0;
 };
 
-}  // namespace battleship::application
+}
