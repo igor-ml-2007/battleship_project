@@ -50,4 +50,4 @@ private:
     std::vector<Ship> ships_;
 };
 
-}  // namespace battleship::domain
+}
