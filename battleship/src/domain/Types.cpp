@@ -41,4 +41,4 @@ std::optional<Phase> parsePhase(const std::string& value) {
     return std::nullopt;
 }
 
-}  // namespace battleship::domain
+}
