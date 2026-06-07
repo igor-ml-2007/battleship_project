@@ -9,4 +9,4 @@ public:
     virtual int nextInt(int minInclusive, int maxInclusive) = 0;
 };
 
-}  // namespace battleship::application
+}
